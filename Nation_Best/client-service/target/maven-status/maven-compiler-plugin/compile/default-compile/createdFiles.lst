@@ -1,0 +1,17 @@
+com\femtech\client_service\client\customer\CustomerMapper.class
+com\femtech\client_service\client\customer\CustomerRequest.class
+com\femtech\client_service\client\customer\CustomerRepository.class
+com\femtech\client_service\client\customer\Customer$CustomerBuilder.class
+com\femtech\client_service\client\customer\CustomerController.class
+com\femtech\client_service\client\config\OpenApiConfig.class
+com\femtech\client_service\client\customer\CustomerServiceImpl.class
+com\femtech\client_service\ClientServiceApplication.class
+com\femtech\client_service\client\customer\Address.class
+com\femtech\client_service\client\customer\CustomerService.class
+com\femtech\client_service\client\exception\CustomerNotFoundException.class
+com\femtech\client_service\client\customer\CustomerResponse.class
+com\femtech\client_service\client\handler\ErrorResponse.class
+com\femtech\client_service\client\handler\GlobalExceptionHandler.class
+com\femtech\client_service\client\customer\Customer$CustomerBuilderImpl.class
+com\femtech\client_service\client\customer\Address$AddressBuilder.class
+com\femtech\client_service\client\customer\Customer.class
